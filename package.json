@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-todo-list",
+  "name": "viewa",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -57,5 +57,21 @@
     "prettier": "^1.19.1",
     "prop-types": "^15.7.2",
     "typescript": "^3.8.3"
-  }
+  },
+  "description": "[Open Demo](https://viewa.vercel.app\r )\r ## Features",
+  "main": ".eslintrc.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/App-Index/viewa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/App-Index/viewa/issues"
+  },
+  "homepage": "https://github.com/App-Index/viewa#readme"
 }
